@@ -2,15 +2,24 @@
   "data": [
     {
       "id": 1,
-      "name": "name"
+      "name": "Prothom ALo",
+      "url": "",
+      "thumbnail": "",
+      "countryCode": "BD"
     },
     {
-      "id": 1,
-      "name": "name"
+      "id": 2,
+      "name": "Prothom ALo",
+      "url": "",
+      "thumbnail": "",
+      "countryCode": "BD"
     },
     {
-      "id": 1,
-      "name": "name"
+      "id": 3,
+      "name": "Prothom ALo",
+      "url": "",
+      "thumbnail": "",
+      "countryCode": "BD"
     }
   ]
 }
